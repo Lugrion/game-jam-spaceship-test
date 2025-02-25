@@ -10,6 +10,10 @@ Currently on Development
 
 Feel free to check the game progress on here:
 
+https://lugrion.github.io/game-jam-spaceship-test/
+
+Controls: Keys + Space
+
 ## Done:
 
 -Factory Pattern implemented:
